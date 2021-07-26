@@ -1,11 +1,8 @@
-#	CNT 4713 Net-Centric Computing Class Project
-<p align="center">
-<img src="./static/ClassLogo.png" alt="CNT4713 LOGO" />
-</p>
+#	CNT 4713 Net-Centric Computing Project
 
-This is a simple web application where I am hosting a static & live feed.
-Pretty much you'll see a video of me back from 2006 when my band tried our luck at a Battle of the Bands.
-I'm also live-streaming from my webcam using openCV & Ngrok.
+This is a simple web application hosting a static & live feed.
+
+I would like to thank Jose Hernandez for his continuous support with the project!
 
 The website is <a href="https://newappv.herokuapp.com">here</a>.
 
