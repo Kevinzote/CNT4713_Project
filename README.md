@@ -13,9 +13,6 @@ This is a simple web application hosting a static & live feed. The website is <a
 
 I would like to thank Jose Hernandez for his continuous support with the project!
 
-While developing this application, I had to learn Python fundamentals and
-Web Development using the Flask Framework.
-
 #	Set-up
 
 <h6>Please note that this is not the best solution but most of these concepts were alien to me at the start of the project.</h6>
