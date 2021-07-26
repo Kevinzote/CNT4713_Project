@@ -1,21 +1,17 @@
 #	CNT 4713 Net-Centric Computing Project
 
-This is a simple web application hosting a static & live feed.
-
-I would like to thank Jose Hernandez for his continuous support with the project!
-
-The website is <a href="https://newappv.herokuapp.com">here</a>.
-
-I used for this project the following:
+This is a simple web application hosting a static & live feed. The website is <a href="https://newappv.herokuapp.com">here</a>. The following tools were used to built this project:
 <ul>
 	<li>Python</li>
 	<li>Ananconda</li>
 	<li>Flask Framework</li>
-	<li>OAuth: Google</li>
+	<li>Google OAuth</li>
 	<li>OpenCV</li>
 	<li>Ngrok</li>
 	<li>Heroku</li>
 </ul>
+
+I would like to thank Jose Hernandez for his continuous support with the project!
 
 While developing this application, I had to learn Python fundamentals and
 Web Development using the Flask Framework.
