@@ -23,14 +23,6 @@ I used for this project the following:
 While developing this application, I had to learn Python fundamentals and
 Web Development using the Flask Framework.
 
-<h2>Recommended Courses & Tutorials:</h2>
-
-<a href="https://www.udemy.com/share/1013nI2@FG5gV2FbSF0Kck5EBHBnVBRu/">Udemy: Python and Flask Bootcamp: Create Websites using Flask!</a>
-<br>
-<a href="https://www.udemy.com/share/101Wai2@Pm1gbFlSTlQGdUBAEmJOVD1HYA==/">Udemy: Learn Python Programming Masterclass</a>
-<br>
-<a href="https://manivannan-ai.medium.com/live-webcam-flask-opencv-python-26a61fee831">Live Webcam Flask Opencv Python</a>
-
 #	Set-up
 
 <h6>Please note that this is not the best solution but most of these concepts were alien to me at the start of the project.</h6>
