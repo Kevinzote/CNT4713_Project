@@ -15,15 +15,13 @@ I would like to thank Jose Hernandez for his continuous support with the project
 
 #	Set-up
 
-<h6>Please note that this is not the best solution but most of these concepts were alien to me at the start of the project.</h6>
-
 <h2>Step 1: Download Project & Set-Up Your Python Environment</h2>
 <br>
 
 To download the project:
 
 ```
-git clone https://github.com/Markojudas/CNT4713-Class_Project.git
+git clone https://github.com/Kevinzote/CNT4713_Project.git
 ```
 
 Download and install <a href="https://www.anaconda.com/">Ananconda</a>
